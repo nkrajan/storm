@@ -1,0 +1,28 @@
+{
+  "name": "storm",
+  "version": "0.0.1",
+  "description": "this example app is so cool",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nkrajan/storm"
+  },
+  "keywords": [
+    "example",
+    "storm",
+    "heroku"
+  ],
+  "author": "nkrajan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkrajan/storm/issues"
+  },
+  "homepage": "https://github.com/nkrajan/storm",
+  "dependencies": {
+    "logfmt": "~0.17.0",
+    "express": "~3.4.6"
+  }
+}
